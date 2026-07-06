@@ -8,7 +8,7 @@ AI agents that draft, draw, and fact-check *themselves* so they ship on schedule
 
 The pinned repos are the basic tools of my trade. They 🤖 run...
 
-*Currently teaching these machines to create something valuable and useful content.* 💸
+*Currently teaching these machines to create valuable and useful content.* 💸
 
 ## Let's roll 🎛️
 
