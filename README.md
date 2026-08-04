@@ -16,7 +16,7 @@ AI is like a brilliant intern who occasionally lies — so everything gets calib
 hard guardrails, and cost circuit-breakers *before* it touches and damages my wallet. Tested, documented, and
 obsessively automated. AI is also an incredible knowlegde-augmenter and I'm constantly torn by this paradox.
 
-🎥 Off GitHub, I run **[Useful Math](https://www.youtube.com/@Useful_Math)**, **[Useful Math](https://www.instagram.com/useful_math_)**— tiny shorts on the humans behind the math. (Equations & Numbers have better backstories than you'd think.) 📖 And **[Athena](https://rueathena.beehiiv.com/)** — a newsletter and community built around creative writers who want to leverage technology to grow their audience.
+🎥 Off GitHub, I run **[Useful Math:YouTube](https://www.youtube.com/@Useful_Math)**, **[Useful Math:Instagram](https://www.instagram.com/useful_math_)**— tiny shorts on the humans behind the math. (Equations & Numbers have better backstories than you'd think.) 📖 And **[Athena](https://rueathena.beehiiv.com/)** — a newsletter and community built around creative writers who want to leverage technology to grow their audience.
 
 ---
 
